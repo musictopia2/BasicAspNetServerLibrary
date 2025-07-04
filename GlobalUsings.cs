@@ -1,0 +1,6 @@
+﻿global using Microsoft.AspNetCore.Http;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.BlobStorage;
+global using CommonBasicLibraries.BasicDataSettingsAndProcesses;
+global using bb1 = CommonBasicLibraries.BasicDataSettingsAndProcesses.BasicDataFunctions;
+global using Microsoft.Extensions.Configuration;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.UploadHelpers;
